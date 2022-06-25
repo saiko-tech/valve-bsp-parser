@@ -5,6 +5,7 @@
 //--------------------------------------------------------------------------------
 #pragma once
 
+#include <unordered_map>
 #include <valve-bsp-parser/core/matrix.hpp>
 
 namespace rn::valve {
